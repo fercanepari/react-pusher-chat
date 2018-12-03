@@ -10,7 +10,7 @@ import Chatkit from '@pusher/chatkit'
 const testToken = "https://us1.pusherplatform.io/services/chatkit_token_provider/v1/78135f30-6232-4463-9d87-6ae43c313bd0/token"
 const instanceLocator = "v1:us1:78135f30-6232-4463-9d87-6ae43c313bd0"
 const roomId = 19375186
-const username = 'damian'
+const username = 'fernando'
 
 class App extends React.Component {
     constructor() {
